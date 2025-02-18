@@ -38,7 +38,7 @@ Welcome to Quiz Game! This is a fun, interactive and poorly written quiz game in
    ```
 2. **Navigate to the Project Directory:**
    ```bash
-   cd quizgame/C_Bass/quizgame
+   cd quizgame
    ```
 
 ### Compilation
